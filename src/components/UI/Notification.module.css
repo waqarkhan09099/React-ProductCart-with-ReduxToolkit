@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    background: lightgreen;
+    justify-content: space-between;
+    padding:0 4rem;
+
+}
+
+h3{
+    color: white;
+    letter-spacing: 2px;
+}
